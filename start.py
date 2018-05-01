@@ -19,6 +19,7 @@ def get_start_widget(appbase, jupbase):
     </ul></td>
     <td valign="top"><ul>
     <li><a href="{appbase}/upload_structure.ipynb" target="_blank">Upload from computer</a>
+    <li><a href="{appbase}/upload_structures.ipynb" target="_blank">Upload from computer (multi) </a>
     </ul></td>
     </tr></table>
 """
