@@ -1,4 +1,5 @@
 {
     "description": "Application to upload structures from your personal computer or from databases",
-    "title": "Structure Importer"
+    "title": "Structure Importer",
+    "version": "0.2.2"
 }
